@@ -1,1 +1,7 @@
-# LED_Sticks
+![1](https://user-images.githubusercontent.com/45856645/160087784-45fa9460-f2b3-43b8-954e-cbf00a8a377b.jpg)
+![2](https://user-images.githubusercontent.com/45856645/160087790-a5fe26fa-d61a-4995-9717-940df11b235d.jpg)
+![3](https://user-images.githubusercontent.com/45856645/160087795-98528173-b997-4015-9b98-fb90f97f0e4d.jpg)
+![4](https://user-images.githubusercontent.com/45856645/160087803-c34e81b5-9a00-4ac1-9226-9f3bca264f5b.jpeg)
+![5](https://user-images.githubusercontent.com/45856645/160087808-e71c7afe-3b14-4c2f-8550-f56638442bbd.jpeg)
+![6](https://user-images.githubusercontent.com/45856645/160087813-8bafdaba-a6b5-4cf5-bd26-a2f1fc435e58.jpeg)
+![7](https://user-images.githubusercontent.com/45856645/160087830-adc013e5-4eaf-4d9f-ac73-850336cbe1a0.jpeg)
